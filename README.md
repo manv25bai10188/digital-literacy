@@ -36,6 +36,5 @@ Researched Ransomware trends in the Indian education sector and developed an **a
 
 - [Digital Literacy Awareness Quiz (Google Forms)](https://forms.gle/MhZ7au5UA2GoPmJYA)
 - [Full Project Report (PDF)](./ProjectReport.pdf)
-- [Full Project Report (Markdown)](./ProjectReport.md)
 
 ---
