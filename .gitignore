@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+
+# Modern IDEs
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
